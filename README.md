@@ -51,6 +51,12 @@ StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
 **Качественные примеры**  
 - **Успехи:**  
   - Как мне кажется для 300 шагов хорошо получились переходы к **3D**, **эльфам**, **зомби** и **картинам нарисованным акварелью**
+  - <img width="948" height="463" alt="image" src="https://github.com/user-attachments/assets/adcddd7d-99db-4943-a5b4-fccc2fe796ed" />
+  - <img width="949" height="457" alt="image" src="https://github.com/user-attachments/assets/bfbdb427-f1f6-48fb-9915-f69b78bd722b" />
+  - <img width="944" height="460" alt="image" src="https://github.com/user-attachments/assets/ae6f2a8e-f6fb-4318-92b6-367d7bc2b38b" />
+  - <img width="949" height="460" alt="image" src="https://github.com/user-attachments/assets/2b9939bd-fcf5-4a74-b69b-f3df4ad39234" />
+
+
 - **Неудачи:**  
   - Неудачно получились переходы к **аниме** и **лицу джокера**, думаю нужно увеличить количество итераций, и поиграться с лоссами и их гиперпараметрами 
   - Плохо получился переход от изображения к его латентному представлению
