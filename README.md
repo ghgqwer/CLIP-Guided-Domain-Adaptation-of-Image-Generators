@@ -51,10 +51,14 @@ StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
 **Качественные примеры**  
 - **Успехи:**  
   - Как мне кажется для 300 шагов хорошо получились переходы к **3D**, **эльфам**, **зомби** и **картинам нарисованным акварелью**
-  - <img width="948" height="463" alt="image" src="https://github.com/user-attachments/assets/adcddd7d-99db-4943-a5b4-fccc2fe796ed" />
-  - <img width="949" height="457" alt="image" src="https://github.com/user-attachments/assets/bfbdb427-f1f6-48fb-9915-f69b78bd722b" />
-  - <img width="944" height="460" alt="image" src="https://github.com/user-attachments/assets/ae6f2a8e-f6fb-4318-92b6-367d7bc2b38b" />
-  - <img width="949" height="460" alt="image" src="https://github.com/user-attachments/assets/2b9939bd-fcf5-4a74-b69b-f3df4ad39234" />
+  - 3D
+    - <img width="948" height="463" alt="image" src="https://github.com/user-attachments/assets/adcddd7d-99db-4943-a5b4-fccc2fe796ed" />
+  - Акварель
+    - <img width="949" height="457" alt="image" src="https://github.com/user-attachments/assets/bfbdb427-f1f6-48fb-9915-f69b78bd722b" />
+  - Зомби
+    - <img width="944" height="460" alt="image" src="https://github.com/user-attachments/assets/ae6f2a8e-f6fb-4318-92b6-367d7bc2b38b" />
+  - Эльф
+    - <img width="949" height="460" alt="image" src="https://github.com/user-attachments/assets/2b9939bd-fcf5-4a74-b69b-f3df4ad39234" />
 
 
 - **Неудачи:**  
@@ -62,7 +66,7 @@ StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
   - Ainme
     - <img width="945" height="463" alt="image" src="https://github.com/user-attachments/assets/d8dd96b1-c9a2-4041-a627-8b6424a3db83" />
   - Jocker
-    -<img width="944" height="460" alt="image" src="https://github.com/user-attachments/assets/af80338c-6d03-4139-a903-6c5fa0d28f3d" />
+    <img width="944" height="460" alt="image" src="https://github.com/user-attachments/assets/af80338c-6d03-4139-a903-6c5fa0d28f3d" />
  
   - Плохо получился переход от изображения к его латентному представлению (нужно улучшить подбор гиперпараметров)
   - <img width="949" height="460" alt="image" src="https://github.com/user-attachments/assets/56f119d6-464b-47d0-8845-96f8e2db6639" />
