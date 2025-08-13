@@ -1,5 +1,5 @@
 # CLIP-Guided-Domain-Adaptation-of-Image-Generators
-StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+[StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://stylegan-nada.github.io)
 
 **Задача:** Обучение предобученного генератора StyleGAN2 перехода в новый домен без использования реальных изображений из этого домена, используя только текстовое описание.
 
